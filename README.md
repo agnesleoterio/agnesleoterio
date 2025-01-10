@@ -10,7 +10,7 @@ Sou uma estudante de **Analista de Qualidade** apaixonada por tecnologia e dedic
 
 
 ## 📫 Contato
-- **LinkedIn**: [agnesleoterio](https://www.linkedin.com)  
+- **LinkedIn**: [agnesleoterio](https://www.linkedin.com/in/agnesleoterio/)  
 - **E-mail**: agnes.leoterio.alves@gmail..com  
 
 🚀 **"Testar é criar qualidade com propósito."** 
