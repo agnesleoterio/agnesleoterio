@@ -26,7 +26,7 @@ Sou profissional em Qualidade de Software, com formação em testes manuais e au
 ---
 
 ## 🎯 Fato curioso
-Antes de mergulhar no mundo da tecnologia, atuei por algunm tempo na áreas **administrativa** e de **qualidade**, o que reforçou minha atenção aos detalhes — algo que levo comigo nos testes que realizo!
+Antes de mergulhar no mundo da tecnologia, atuei por algum tempo na áreas **administrativa** e de **qualidade**, o que reforçou minha atenção aos detalhes — algo que levo comigo nos testes que realizo!
 
 ---
 
