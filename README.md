@@ -1,6 +1,6 @@
 # 👋 Olá, sou Agnes Leoterio!
 
-Sou profissional em Qualidade de Software, com formação em testes manuais e automatizados. Tenho experiência com testes de API, testes funcionais, análise de logs e ferramentas como Jira, Postman e Figma. Atualmente, estou desenvolvendo projetos de automação de testes utilizando **Cypress** para reforçar meus conhecimentos técnicos e construir um portfólio sólido.
+Sou profissional em Qualidade de Software, com formação em testes manuais e automatizados. Tenho experiência com testes de API, testes funcionais, análise de logs e ferramentas como Jira, Postman e Figma. Atualmente, estou desenvolvendo projetos de automação de testes utilizando **Cypress** e **Selenium** para reforçar meus conhecimentos técnicos e construir um portfólio sólido.
 
 🎓 Ao longo da minha formação, também estudei **Python**, **estrutura de testes**, **design de casos de teste** e fundamentos de **banco de dados com SQL**.
 
@@ -33,6 +33,6 @@ Antes de mergulhar no mundo da tecnologia, atuei por algum tempo na áreas **adm
 
 ## 📫 Contato
 - **LinkedIn**: [agnesleoterio](https://www.linkedin.com/in/agnesleoterio/)  
-- **E-mail**: agnes.leoterio.alves@gmail..com  
+- **E-mail**: agnes.leoterio.alves@gmail.com  
 
 🚀 **"Testar é criar qualidade com propósito."** 
