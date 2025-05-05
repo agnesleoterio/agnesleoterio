@@ -32,7 +32,7 @@ Antes de mergulhar no mundo da tecnologia, atuei por algum tempo na áreas **adm
 
 
 ## 📫 Contato
-- **LinkedIn**: [agnesleoterio](https://www.linkedin.com/in/agnesleoterio/)  
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/agnesleoterio). 
 - **E-mail**: agnes.leoterio.alves@gmail.com  
 
 🚀 **"Testar é criar qualidade com propósito."** 
