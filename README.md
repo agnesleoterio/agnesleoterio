@@ -2,7 +2,7 @@
 
 Sou profissional em Qualidade de Software, com formação em testes manuais e automatizados. Tenho experiência com testes de API, testes funcionais, análise de logs e ferramentas como Jira, Postman e Figma. Atualmente, estou desenvolvendo projetos de automação de testes utilizando **Cypress** e **Selenium** para reforçar meus conhecimentos técnicos e construir um portfólio sólido.
 
-🎓 Ao longo da minha formação, também estudei **Python**, **estrutura de testes**, **design de casos de teste** e fundamentos de **banco de dados com SQL**, versionamento com **Git** e fundamentos de **CI/CD** e **BDD**.
+🎓 Ao longo da minha formação, também estudei **Python**, **estrutura de testes**, **design de casos de teste** e fundamentos de **banco de dados com SQL**, versionamento com **Git**.
 
 📌 Confira meus projetos abaixo e sinta-se à vontade para me contatar ou conectar no [LinkedIn](https://www.linkedin.com/in/seu-perfil)!
 
